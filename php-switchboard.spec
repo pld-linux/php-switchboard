@@ -1,5 +1,5 @@
 Summary:	MVC framework written in PHP
-Name:		switchboard
+Name:		php-switchboard
 Version:	2.0.1
 Release:	0.1
 License:	GPL
