@@ -10,6 +10,7 @@ URL:		http://www.danielslaughter.com/projects/
 BuildRequires:	php-common
 BuildRequires:	rpmbuild(macros) >= 1.268
 BuildRequires:	unrar
+BuildRequires:	unzip
 BuildArch:	noarch
 BuildRoot:	%{tmpdir}/%{name}-%{version}-root-%(id -u -n)
 
